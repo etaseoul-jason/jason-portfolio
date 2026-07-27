@@ -3,12 +3,14 @@
 ## Authority order
 
 1. `docs/content-truth.md`
-2. `docs/page-spec.md`
+2. `docs/portfolio-final-redesign-spec.md`
 3. `references/selected-designs/` and design handoff
-4. `docs/design-system.md`
+4. `docs/redesign-document-status.md`
 5. current code
 
 Higher sources override lower sources.
+
+Historical redesign documents such as `docs/page-spec.md`, `docs/design-system.md`, numbered design docs, and `reference/source-*` files are superseded for final page order, page count, and redesign implementation.
 
 ## Non-negotiable content
 

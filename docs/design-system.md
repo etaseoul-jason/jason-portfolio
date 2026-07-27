@@ -1,3 +1,7 @@
+# Deprecated Redesign Document
+
+Superseded by docs/portfolio-final-redesign-spec.md
+
 # Global HTML Portfolio Design System
 
 ## 1. 목표

@@ -1,3 +1,7 @@
+# Deprecated Redesign Document
+
+Superseded by docs/portfolio-final-redesign-spec.md
+
 # Portfolio Acceptance Checklist
 
 모든 항목은 PASS / FAIL로 기록한다. `mostly pass`, `acceptable`, `probably fine`은 허용하지 않는다.

@@ -1,3 +1,7 @@
+# Deprecated Redesign Document
+
+Superseded by docs/portfolio-final-redesign-spec.md
+
 # Page-by-Page HTML Redesign Specification
 
 ## 사용 방법

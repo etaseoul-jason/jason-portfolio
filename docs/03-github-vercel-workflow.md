@@ -1,3 +1,7 @@
+# Deprecated Redesign Document
+
+Superseded by docs/portfolio-final-redesign-spec.md
+
 # GitHub + Vercel Execution Workflow
 
 ## 목적
