@@ -1,3 +1,7 @@
+# Deprecated Redesign Document
+
+Superseded by docs/portfolio-final-redesign-spec.md
+
 # Docs Index
 
 - `content-truth.md`: verified content and metrics. Highest authority.

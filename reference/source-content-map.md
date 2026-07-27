@@ -5,6 +5,10 @@ type: reference
 tags: [palantir, portfolio, cv, content-map, metrics, workflow]
 ---
 
+# Deprecated Redesign Document
+
+Superseded by docs/portfolio-final-redesign-spec.md
+
 # [최종본] CV-to-Portfolio Content Map (cv 가이드)
 ## Modular Content, Metrics & Visual Specifications
 

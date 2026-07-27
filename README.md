@@ -1,3 +1,7 @@
+# Deprecated Redesign Document
+
+Superseded by docs/portfolio-final-redesign-spec.md
+
 # Portfolio HTML Redesign Instruction Pack
 
 ## 1. 이번 검토에서 한 일

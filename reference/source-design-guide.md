@@ -5,6 +5,10 @@ type: reference
 tags: [palantir, portfolio, design-system, font-token, padding, svg-grammar, validation]
 ---
 
+# Deprecated Redesign Document
+
+Superseded by docs/portfolio-final-redesign-spec.md
+
 # [최종본] Portfolio Production & Design Guide (pp 가이드)
 ## Complete CSS Layout, Visual Grammar & Image-Fitting Specifications
 
