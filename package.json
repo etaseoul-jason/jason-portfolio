@@ -1,0 +1,12 @@
+{
+  "name": "jason-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Jaehyun Han product portfolio - static HTML source",
+  "scripts": {
+    "validate": "node scripts/validate-layout.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.59.0"
+  }
+}
