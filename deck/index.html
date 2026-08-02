@@ -110,7 +110,7 @@ h1{font-family:var(--font-display);font-weight:400;font-stretch:112.5%;letter-sp
 .t-onepager .rail{width:248px;flex:none;padding-right:24px;border-right:1px solid var(--line);
   display:flex;flex-direction:column}
 .t-onepager .rail .blk{margin-top:16px}
-.t-onepager .main{flex:0 0 44%;min-width:0;display:flex;flex-direction:column}
+.t-onepager .main{flex:0 0 50%;min-width:0;display:flex;flex-direction:column}
 /* margin-bottom 은 결과표 하단 헤어라인이 푸터 罫와 겹치지 않게 띄운다. 푸터 padding-top 과 같은 값 */
 .t-onepager .tail{margin-top:auto;flex:none;margin-bottom:16px}
 /* 레거시 페이지의 인라인 .op-a .figure 높이를 토큰 이관. 660x448 viewBox 가 코어 텍스트를 9px 로 렌더 */
@@ -659,7 +659,7 @@ body.deck .page:last-child{break-after:auto;page-break-after:auto}}
     </div>
     <div style="display:flex;gap:28px;flex:1;min-height:0;margin-top:18px">
 
-      <div data-slot="main" style="flex:0 0 52%;min-width:0;display:flex;flex-direction:column;gap:10px">
+      <div data-slot="main" style="flex:0 0 46%;min-width:0;display:flex;flex-direction:column;gap:8px">
         <!-- 2024 Lane -->
         <div style="background:#fff6f5;border:1px solid #c73a3a;border-radius:6px;padding:10px 12px">
           <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:6px">
@@ -713,7 +713,7 @@ body.deck .page:last-child{break-after:auto;page-break-after:auto}}
         </div>
       </div></div>
 
-      <div data-slot="result" style="flex:0 0 44%;min-width:0;display:flex;flex-direction:column">
+      <div data-slot="result" style="flex:0 0 50%;min-width:0;display:flex;flex-direction:column">
         <div class="figure" data-component="chart" data-role="net-sales-trend" style="height:170px">
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="170" viewBox="0 0 420 170" font-family="Menlo, monospace"><text x="0" y="12" font-size="9" font-weight="bold" fill="#6D7275" letter-spacing="1">NET SALES &middot; OBSERVED</text><line x1="0" y1="140" x2="410" y2="140" stroke="#DCDCD8" stroke-width="1"/><rect x="30" y="128.5" width="70" height="11.5" fill="#8C8C8C"/><text x="65" y="120" text-anchor="middle" font-size="11" font-weight="bold" fill="#282828">$2.3K</text><text x="65" y="154" text-anchor="middle" font-size="10" fill="#282828">2024</text><rect x="175" y="55.8" width="70" height="84.2" fill="#8C8C8C"/><text x="210" y="47" text-anchor="middle" font-size="11" font-weight="bold" fill="#282828">$16.8K</text><text x="210" y="154" text-anchor="middle" font-size="10" fill="#282828">2025</text><rect x="320" y="30" width="70" height="110" fill="#2B4FD7"/><text x="355" y="21" text-anchor="middle" font-size="11" font-weight="bold" fill="#2B4FD7">$21.9K</text><text x="355" y="154" text-anchor="middle" font-size="10" fill="#282828">2026 H1</text></svg>
         </div>
