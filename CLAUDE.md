@@ -12,13 +12,16 @@ Higher sources override lower sources.
 
 ## Non-negotiable content
 
-- ETA Seoul: 307 orders / $41.3K cumulative GMV
-- Partner: 30 partners / 7-person delivery squad
-- D2D: 1,600+ dealers / 22%→7% cancellation / 6.3→11.7 items
+- ETA Seoul: 307 orders / $41K net sales
+- Partner: 30 partners / 12-person delivery squad
+- D2D: 1,600+ dealers / 22%→7% cancellation / 6.3→9.8 items
 - Segment: 0%→12.5% revenue share / +89% repurchase
-- Invoice: 33→0 requests / 165 hours removed monthly / +221% volume
+- Invoice: 33→0 requests / 165 hours removed monthly
 
-Never use: 286 orders, 12-person squad, 32 partners, 2.8 units, ~21 MD.
+Never use: 286 orders, 7-person squad, 32 partners, 2.8 units, ~21 MD, $41.3K, 11.7 units, +221% volume.
+
+수치는 `knowledge-vault/wiki/career/profile/canonical-facts.md` 에서만 갱신한다.
+이 목록과 `docs/content-truth.md` 는 그 산출물이다.
 
 ## Architecture
 

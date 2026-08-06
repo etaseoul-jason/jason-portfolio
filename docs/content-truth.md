@@ -2,6 +2,8 @@
 
 이 파일은 모든 디자인 및 코드보다 우선한다. 수치나 문구 충돌이 발생하면 임의로 선택하지 말고 이 파일을 기준으로 한다.
 
+이 문서는 knowledge-vault/wiki/career/profile/canonical-facts.md 의 산출물이다. 수치는 거기서만 갱신한다.
+
 ## Global
 
 - Name: Jaehyun Han
@@ -17,10 +19,10 @@
 - Subsidiary order desk: fewer than 10 staff
 - Order to ERP: 3.8 days
 - Cancellation: 22% → 7%
-- Items per order: 6.3 → 11.7
+- Items per order: 6.3 → 9.8
 - Truck fill: 42% → 71%
 - Logistics cost: −23%
-- Monthly active dealers: 39% observed
+- Order desk volume: 100% → 18%
 - About 50% still using spreadsheets after six months: estimated
 - Rollout: Germany MVP → five markets
 - Award: LG Innovation Award 2025 / LG Electronics and LG Group finals 2nd
@@ -35,7 +37,7 @@
 - The 88.8% measure is coverage, not attribution.
 - Representative manual workflow: 5 steps → 3 steps
 - Working React prototype: 16,500 lines
-- Delivery squad: 7 people / 6 engineers + 1 product designer
+- Delivery squad: 12 people
 - Phase 1 launched: May 2026
 - Usage observation: June 2026
 
@@ -44,8 +46,8 @@
 - Period: 2024.01–Present
 - Brands: 30
 - Orders: 307
-- Cumulative GMV: $41.3K
-- H1 2026 GMV: $21.9K
+- Cumulative net sales: $41K
+- H1 2026 net sales: $21.9K
 - Recurring operations automated: 90%
 - Catalog batch manual time: 120 → 20 minutes
 - Catalog workflow manual-time reduction: −85%
@@ -73,7 +75,6 @@
 - Scope: 30+ markets
 - Manual invoice requests: 33 → 0 per month
 - Manual effort removed: 165 hours per month
-- Invoice volume absorbed: +221% across 12 countries
 - Source: internal ops ticket log / implementation records, 2025
 - Do not use `~21 MD` in the portfolio.
 - Do not claim tax-team interviews, tax-team sign-off records, or verified-per-market approval without separate evidence.
@@ -81,7 +82,6 @@
 ## Forbidden values / phrases
 
 - 286 orders
-- 12-person squad
 - 32 partners
 - 2.8 units
 - ~21 MD

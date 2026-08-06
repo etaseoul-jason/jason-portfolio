@@ -535,7 +535,7 @@ Cancellations fell to a third. Order size rose.
 
 ```text
 Cancellation rate 22% → 7%
-Items per order 6.3 → 11.7 (+86%)
+Items per order 6.3 → 9.8
 ```
 
 ### Supporting evidence
@@ -654,7 +654,7 @@ From fragmented partner operations to a shared workspace.
 
 - `30+ partners` → `30 cross-border partners` unless a newer verified count is supplied.
 - role label: Product Manager
-- delivery team: 7-person squad, not 12.
+- delivery team: 12-person squad, not 7.
 
 ### Layout
 
@@ -798,7 +798,7 @@ Shared data model, role-based access, settlement, onboarding and future integrat
 
 ```text
 16,500-line working React prototype
-Aligned a 7-person delivery squad: 6 engineers + 1 product designer
+Aligned a 12-person delivery squad
 ```
 
 ### Selected architecture
@@ -842,7 +842,7 @@ Each module has maximum one-line explanation.
 ### Acceptance criteria
 
 - viewer can say what was rejected and why.
-- `7-person` only; `12-person` absent.
+- `12-person` only; `7-person` absent.
 - selected architecture maximum 4 modules.
 - no more than 2 lines per option.
 - no invented delivery speed or ROI.
@@ -949,12 +949,12 @@ One operator, thirty brands, every recurring task a system.
 - 2024 manual / 2025 developer-assisted / 2026 systemized progression
 - 30 brands
 - 307 orders
-- $41.3K cumulative GMV
+- $41K net sales
 - Shopify production captures
 
 ### Correct
 
-- `$41K` → `$41.3K`
+- `$41.3K` → `$41K net sales`
 - `307 orders` 유지
 - `Every recurring task a system` headline capitalization 통일
 
@@ -963,7 +963,7 @@ One operator, thirty brands, every recurring task a system.
 - dark project cover
 - left: headline / 3-phase progression / meta
 - right: one main storefront image + one small checkout crop
-- 307 / $41.3K are a single compact evidence line, not four equal cards
+- 307 / $41K net sales are a single compact evidence line, not four equal cards
 
 ### Icons
 
@@ -971,7 +971,7 @@ One operator, thirty brands, every recurring task a system.
 
 ### Acceptance criteria
 
-- 307 and $41.3K exact.
+- 307 and $41K exact.
 - maximum 2 images.
 - phase text maximum one line each.
 
@@ -1025,7 +1025,7 @@ Shopify order
 90% of recurring operations automated
 120 → 20 min per catalog batch
 −85% manual time for the Airflow + LLM catalog workflow
-307 orders · $41.3K cumulative GMV
+307 orders · $41K net sales
 ```
 
 - `90% automated` is operating coverage.
@@ -1083,7 +1083,7 @@ Top small strip:
 - `BrainCircuit` appears only at LLM correction node.
 - ordinary scheduler / API nodes do not use LLM icon.
 - 90% and −85% definitions shown.
-- 307 / $41.3K exact.
+- 307 / $41K exact.
 
 ---
 # SMB Segment Multi-Store
@@ -1439,7 +1439,6 @@ One order record, three tax invoice paths.
 
 - hero result: `165 hours removed monthly`
 - supporting meta: `33 → 0 manual requests`
-- `+221% volume` is secondary and moves to detail page if cover becomes dense
 - description maximum two lines
 
 ### Icons
@@ -1516,11 +1515,9 @@ Order-ID pull → oversized master-table response
 ```text
 165 hours removed monthly
 33 → 0 manual requests / month
-+221% invoice volume absorbed
 ```
 
 - `~21 MD` 삭제
-- `12 countries`는 +221% metric의 measurement scope로 붙인다.
 
 ### Icons
 
@@ -1553,7 +1550,7 @@ internal ops ticket log · implementation records, 2025
 
 - technical nodes maximum 6.
 - PM 4-step workflow visible without reading the technical diagram.
-- `165 hours`, `33→0`, `+221%` units and scopes visible.
+- `165 hours`, `33→0` units and scopes visible.
 - `~21 MD` absent.
 - no claims about tax-team interviews or verified-per-market sign-off unless separately proven.
 

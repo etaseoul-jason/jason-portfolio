@@ -251,11 +251,14 @@ Fail if found:
 
 ```text
 286 orders
-12-person
-12 person
+7-person
+7 person
 32 partners
 2.8 units
 ~21 MD
+$41.3K
+11.7
++221%
 11-entity requirement workshops
 Interviews across 11 country entities
 ```
@@ -264,11 +267,11 @@ Require:
 
 ```text
 307 orders
-$41.3K
-7-person
+$41K net sales
+12-person
 30 partners
 22% → 7%
-6.3 → 11.7
+6.3 → 9.8
 33 → 0
 165 hours
 12.5%

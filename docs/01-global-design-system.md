@@ -353,12 +353,12 @@ Credit check feature.
 
 다음 수치를 정본으로 취급한다.
 
-- ETA Seoul: 307 orders / $41.3K cumulative GMV
-- Partner Center: 30 partners / 7-person delivery squad
-- D2D: 1,600+ dealers / 3.8 days / cancellation 22% → 7% / items per order 6.3 → 11.7
+- ETA Seoul: 307 orders / $41K net sales
+- Partner Center: 30 partners / 12-person delivery squad
+- D2D: 1,600+ dealers / 3.8 days / cancellation 22% → 7% / items per order 6.3 → 9.8
 - Partner adoption: 20 of 30 with recorded login activity in June 2026 / 88.8% sales coverage, not attribution
 - Segment: 0% → 12.5% SMB revenue share / repurchase +89%
-- Invoice: 33 → 0 manual requests / 165 hours removed monthly / +221% volume
+- Invoice: 33 → 0 manual requests / 165 hours removed monthly
 
-- `12-person squad`, `286 orders`, `32 partners`, `2.8 units`를 사용하지 않는다.
+- `286 orders`, `32 partners`, `2.8 units`를 사용하지 않는다.
 - observed / estimated / coverage / attribution을 명시적으로 구분한다.

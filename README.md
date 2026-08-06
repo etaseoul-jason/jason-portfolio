@@ -6,7 +6,7 @@
 
 이번 지시팩에서 확정한 사항은 다음과 같다.
 
-1. 정본 수치는 `ETA 307 orders`, `7-person squad`, `30 partners`, `6.3 → 11.7 units`로 고정한다.
+1. 정본 수치는 `ETA 307 orders`, `12-person squad`, `30 partners`, `6.3 → 9.8 units`로 고정한다.
 2. 최종 페이지 수는 규칙으로 고정하지 않는다. 페이지 번호 대신 의미 기반 `id`를 사용한다.
 3. 현재 목차 페이지는 제거한다.
 4. 현재 D2D 구성에 누락된 명시적 Decision 페이지를 추가한다.
@@ -30,9 +30,9 @@
 | 08 D2D Rollout | 5개 시장 확장 / 재사용 가능·불가능 요소 / adoption lesson / Award | `The software scaled. Adoption did not.` 중심의 lesson 페이지로 재설계 | `#d2d-lesson` |
 | 09 Partner cover | 파트너센터 커버 / 제품 캡처 | 30 partners 정본 반영 / 이미지와 메타 정리 | `#partner-cover` |
 | 10 Partner Ecosystem | Buyer / Partner / Seller / Bunjang 간 수기 relay / 6개 운영 채널 | 4 actor workflow + partner bottleneck으로 단순화 | `#partner-problem` |
-| 11 Partner Before and After | Before 지표 / After 4개 모듈 / 12-person squad | Tactical patch 거절과 dedicated platform 선택을 명시 / 7-person squad로 교정 | `#partner-decision` |
+| 11 Partner Before and After | Before 지표 / After 4개 모듈 / 12-person squad | Tactical patch 거절과 dedicated platform 선택을 명시 / 12-person squad로 교정 | `#partner-decision` |
 | 12 Partner Adoption | 제품 화면 / 20 of 30 active / 88.8% coverage / unresolved items | 30 onboarded / 20 active / 5→3 steps를 위계화하고 unresolved는 축소 | `#partner-impact` |
-| 13 ETA cover | 2024–2026 단계 / 3개 캡처 / 307 orders / $41K | `$41.3K`, 307 orders 정본 / cover 밀도 정리 | `#eta-cover` |
+| 13 ETA cover | 2024–2026 단계 / 3개 캡처 / 307 orders / $41K | `$41K net sales`, 307 orders 정본 / cover 밀도 정리 | `#eta-cover` |
 | 14 ETA workflow | 2024 manual / 2025 Airflow+LLM / 2026 delivery API의 선형 3단계 | 직각형 closed operating loop로 재설계 / 90% automation과 85% time reduction 구분 | `#eta-operating-loop` |
 | 15 Segment cover | SMB segment 프로젝트 커버 / 17 markets / 12.5% revenue | 톤 유지 / 결과와 역할 메타 정리 | `#segment-cover` |
 | 16 Segment Problem | 한 storefront에 4 buyer / 4 failure / funnel / 설명 카드 | 평균값에 가려진 0% SMB revenue와 single retail path만 강조 | `#segment-problem` |
@@ -70,13 +70,18 @@
 
 ## 4. 파일 사용 순서
 
-1. `docs/01-global-design-system.md` — 화면 규격 / 타입 / 컬러 / Lucide / 워크플로우 문법
-2. `docs/02-page-by-page-spec.md` — 각 페이지의 현재 문제와 최종 완료 조건
+1. `docs/design-system.md` — 화면 규격 / 타입 / 컬러 / Lucide / 워크플로우 문법
+2. `docs/page-spec.md` — 각 페이지의 현재 문제와 최종 완료 조건
 3. `docs/03-github-vercel-workflow.md` — GitHub 초기화 / 소스 정규화 / 브랜치 / Vercel Preview
 4. `prompts/01-claude-design.md` — Claude Design에 그대로 전달할 작업 순서와 프롬프트
 5. `prompts/02-claude-code.md` — Claude Code의 Plan / Normalize / Implement / Verify 프롬프트
-6. `docs/04-acceptance-checklist.md` — PR merge 전 최종 PASS/FAIL 기준
+6. `docs/acceptance-checklist.md` — PR merge 전 최종 PASS/FAIL 기준
 7. `CLAUDE.md` — 저장소 루트에 두고 Claude Code의 상시 규칙으로 사용
+
+> 2026-08-06: 번호를 붙인 사본 3개(`01-global-design-system.md`, `02-page-by-page-spec.md`,
+> `04-acceptance-checklist.md`)를 제거했다. 무번호 파일과 바이트 단위로 같았고, 같은 수정을
+> 두 번 해야 하는 구조라 한쪽이 낡은 수치를 그대로 들고 있었다. 정본은 무번호 쪽이며
+> `prompts/`와 `CLAUDE.md`도 처음부터 무번호를 읽는다. 읽기 순서는 위 목록 번호로 유지한다.
 
 ## 5. 작업 원칙
 

@@ -5,16 +5,16 @@
 ## 1. Content truth
 
 - [ ] ETA is exactly `307 orders`.
-- [ ] ETA cumulative GMV is `$41.3K`.
-- [ ] Partner delivery squad is `7-person`, with `6 engineers + 1 product designer` where detailed.
+- [ ] ETA cumulative net sales is `$41K`.
+- [ ] Partner delivery squad is `12-person`.
 - [ ] Partner count is `30`, unless a newer verified source is explicitly supplied.
 - [ ] D2D cancellation is `22% → 7%`.
-- [ ] D2D items per order is `6.3 → 11.7`.
+- [ ] D2D items per order is `6.3 → 9.8`.
 - [ ] Segment revenue share is `0% → 12.5%`.
 - [ ] Segment repurchase is `+89%`.
 - [ ] Invoice manual requests are `33 → 0`.
 - [ ] Invoice effort is `165 hours removed monthly`.
-- [ ] `286 orders`, `12-person squad`, `32 partners`, `2.8 units`, `~21 MD` are absent.
+- [ ] `286 orders`, `32 partners`, `2.8 units`, `~21 MD` are absent.
 - [ ] No unverified interview / workshop count.
 - [ ] No invented intermediate quarter or ramp.
 - [ ] `coverage, not attribution` appears with 88.8% partner sales coverage.
